@@ -1,0 +1,10 @@
+{
+    "duration": 5,
+    "attributes": {
+      "colour": {
+        "function": "random",
+        "values": ["blue", "green", "red", "pink"]
+      }
+    },
+    "rate": 1
+  }

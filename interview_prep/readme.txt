@@ -1,0 +1,1 @@
+If you un comment lines 152 - 154 the connectZ board will be printed in the terminal after each move.

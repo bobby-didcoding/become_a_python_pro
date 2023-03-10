@@ -1,0 +1,18 @@
+{
+  "duration": 5,
+  "attributes":{
+    "colour": {
+      "function": "random",
+      "values": ["blue", "green", "pink"]
+    },
+    "material": {
+      "function": "random",
+      "values": ["plastic", "metal", "paper"]
+    }
+  },
+  "rate": {
+    "function": "random",
+    "min": 1,
+    "max": 5
+  }
+}

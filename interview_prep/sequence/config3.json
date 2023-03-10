@@ -1,0 +1,14 @@
+{
+  "duration": 5,
+  "attributes":{
+    "colour": {
+      "function": "random",
+      "values": ["blue", "green"]
+    }
+  },
+  "rate": {
+    "function": "random",
+    "min": 1,
+    "max": 5
+  }
+}
